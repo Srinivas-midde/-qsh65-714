@@ -1,0 +1,3 @@
+spring.application.name=tej
+# N.B. this is the default:
+spring.cloud.config.uri=https://github.com/Srinivas-midde/client-server-microservices-

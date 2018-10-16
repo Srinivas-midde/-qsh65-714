@@ -1,0 +1,5 @@
+management.endpoints.web.exposure.include=*
+spring.application.name=config-client
+server.port=8083
+
+#eureka.client.serviceUrl.defaultZone: http://localhost:8787/eureka/
